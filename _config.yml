@@ -1,10 +1,10 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
-title: Bay Jekyll Theme
-description: Bay is a minimal Jekyll Theme.
-baseurl: "/bay"
-url: "https://eliottvincent.github.io"
+title: Theory, Data, Society Lab
+description: @ KAIST DHCSS
+baseurl: "/tds"
+url: "https://tdslab.github.io"
 og_image: /assets/img/logo-main.jpeg
 google_analytics: "UA-121636368-3"
 
