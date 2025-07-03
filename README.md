@@ -1,4 +1,4 @@
-# Bay
+# Theory, Data, Society Lab
 
 [![Version](https://img.shields.io/gem/v/bay_jekyll_theme)](https://rubygems.org/gems/bay_jekyll_theme)
 [![Downloads](https://img.shields.io/gem/dt/bay_jekyll_theme)](https://rubygems.org/gems/bay_jekyll_theme)
@@ -22,7 +22,6 @@ Inspired by [dangrover.com](http://dangrover.com/). Current theme used at [eliot
 
 
 ### Installation
-
 
 The easiest solution is to [fork this repo](https://github.com/eliottvincent/bay/fork).
 If you want to start from a clean website, follow the steps below:
